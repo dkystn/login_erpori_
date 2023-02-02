@@ -1,0 +1,100 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+
+.li-navbar-erperio{
+    list-style-type: none;
+    padding: 3px;
+    margin: 3px;
+}
+
+
+.d-flex .btn {
+    background-color: #69ca7f;
+    color: #fff;
+    border: 0px;
+}
+
+
+.img-content {
+    width: 60%;
+    height: 60%;
+}
+
+
+.text2 {
+    color: #69ca7f;
+    padding: 8vh;
+}
+
+.text {
+    color: gray;
+    
+}
+
+.container-selection {
+    background-color: #69ca7f;
+    height: 100vh;
+}
+.col-lg-6 {
+    height: 100vh;
+} 
+
+.container-selection .container-isi .row .col .text {
+    padding: 8vh;
+}
+
+.container-selection .container-isi .row .col .text2 {
+    padding: 8vh;
+}
+.container-in {
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+
+.form-check-input:checked {
+    background-color: #69ca7f;
+    border-color: #69ca7f;
+}
+
+
+input[type = 'username'],
+input[type = 'email'] ,
+input[type = 'password']{
+    border-color: #69ca7f;
+    height: 25px;
+}
+
+input[type="checkbox"] {
+    background: #69ca7f;    
+}
+
+#exampleCheck1 {
+    background-color: #69ca7f;
+}
+
+.remind-all {
+    margin-top: -40px;
+}
+
+.remind {
+    color: rgb(131, 125, 125);
+}
+
+.btn {
+    background-color: #69ca7f;
+}
+
+span {
+    color: red;
+}
+
+.link-forget .forget{
+    color: #69ca7f;
+    list-style-type: none;
+    text-decoration: none;
+}
+
